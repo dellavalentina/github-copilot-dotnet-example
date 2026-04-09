@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciamentoUsuarios.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8773379fef3ac30ea6bc1a4bccd4c24d664578e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7d483c5c62091734a2a04bdf06e26c528cd577")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciamentoUsuarios.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciamentoUsuarios.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
