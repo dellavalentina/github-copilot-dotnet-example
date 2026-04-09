@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="GerenciamentoUsuarios.Api\GerenciamentoUsuarios.Api.csproj" />
+  <Project Path="GerenciamentoUsuarios.Aplicacao\GerenciamentoUsuarios.Aplicacao.csproj" />
+  <Project Path="GerenciamentoUsuarios.DataTransfer\GerenciamentoUsuarios.DataTransfer.csproj" />
+  <Project Path="GerenciamentoUsuarios.Dominio\GerenciamentoUsuarios.Dominio.csproj" />
+  <Project Path="GerenciamentoUsuarios.Infra\GerenciamentoUsuarios.Infra.csproj" />
+  <Project Path="GerenciamentoUsuarios.Ioc\GerenciamentoUsuarios.Ioc.csproj" />
+  <Project Path="GerenciamentoUsuarios.Jobs\GerenciamentoUsuarios.Jobs.csproj" />
+</Solution>

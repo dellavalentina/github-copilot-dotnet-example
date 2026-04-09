@@ -1,0 +1,17 @@
+c:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.deps.json
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.Dominio.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.Dominio.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\bin\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.AssemblyInfo.cs
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.csproj.CoreCompileInputs.cache
+c:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\Gerencia.952808AB.Up2Date
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\refint\GerenciamentoUsuarios.Aplicacao.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\GerenciamentoUsuarios.Aplicacao.pdb
+c:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.Aplicacao\obj\Debug\net10.0\ref\GerenciamentoUsuarios.Aplicacao.dll

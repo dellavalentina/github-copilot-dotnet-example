@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\bin\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.deps.json
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\bin\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\bin\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\bin\Debug\net10.0\GerenciamentoUsuarios.Dominio.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\bin\Debug\net10.0\GerenciamentoUsuarios.Dominio.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.AssemblyInfo.cs
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\Gerencia.DCEC63A2.Up2Date
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\refint\GerenciamentoUsuarios.DataTransfer.dll
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\GerenciamentoUsuarios.DataTransfer.pdb
+C:\Users\gabri\source\repos\live3\GerenciamentoUsuarios.DataTransfer\obj\Debug\net10.0\ref\GerenciamentoUsuarios.DataTransfer.dll

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>c2d953cf-4bf3-4c95-9c8a-2fc4132551c4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.0-preview.5.25277.114" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GerenciamentoUsuarios.Aplicacao\GerenciamentoUsuarios.Aplicacao.csproj" />
+    <ProjectReference Include="..\GerenciamentoUsuarios.DataTransfer\GerenciamentoUsuarios.DataTransfer.csproj" />
+    <ProjectReference Include="..\GerenciamentoUsuarios.Ioc\GerenciamentoUsuarios.Ioc.csproj" />
+  </ItemGroup>
+
+</Project>
