@@ -1,0 +1,62 @@
+## .NET / C#
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Visual Studio
+.vs/
+*.rsuser
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+**/packages/*
+*.nupkg
+**/[Pp]ackages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Build results
+[Bb]uild[Ll]og.*
+*.buildlog
+
+## dotnet user-secrets
+secrets.json
+
+## ASP.NET
+ScaffoldingReadMe.txt
+
+## Windows
+[Tt]humbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Rider
+.idea/
+*.sln.iml
+
+## Logs
+*.log
