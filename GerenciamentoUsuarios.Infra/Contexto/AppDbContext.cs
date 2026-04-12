@@ -1,3 +1,4 @@
+using GerenciamentoUsuarios.Dominio.Enderecos.Entidades;
 using GerenciamentoUsuarios.Dominio.Usuarios.Entidades;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,6 +9,7 @@ public class AppDbContext : DbContext
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
     public DbSet<Usuario> Usuarios { get; set; } = null!;
+    public DbSet<Endereco> Enderecos { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

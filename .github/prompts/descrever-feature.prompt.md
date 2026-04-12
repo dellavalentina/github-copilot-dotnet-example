@@ -73,7 +73,25 @@ Monte as perguntas **apenas sobre o que está ausente ou ambíguo**. Não pergun
 
 ---
 
-## Passo 4 — Gerar o Documento
+## Passo 4 — Coletar Configuração do Projeto
+
+Após resolver todas as lacunas de negócio, colete as informações técnicas e de infraestrutura que os prompts seguintes do pipeline precisarão. Isso evita que `cards-desenvolvimento` e `servicos-azure` refaçam perguntas.
+
+**Use `vscode_askQuestions`** para perguntar numa única rodada:
+
+1. **Nome da solution** — Qual o nome da solution? (ex: `SistemaLogin`, `GerenciamentoUsuarios`) — usado para namespaces e nomes dos projetos
+2. **Target framework** — Qual a versão do .NET? (ex: `net8.0`, `net9.0`, `net10.0`)
+3. **Primeira feature do projeto?** — Se sim, os cards incluirão o setup da solution com as classes base. Se não, esses artefatos já existem.
+4. **Autenticação JWT configurada?** — O `TokenServicos` e o `Program.cs` com JWT Bearer já existem? Se não, os cards incluirão isso.
+5. **Serviços de integração existentes** — Serviços como `EmailServico`, `BlobServico` já estão implementados? Quais?
+6. **Região Azure** — Onde serão criados os recursos? (ex: `Brazil South`, `East US`). Se não souber, sugira `Brazil South`.
+7. **Ambiente** — Desenvolvimento/testes ou produção?
+
+As respostas serão incluídas no documento gerado na seção "Configuração do Projeto".
+
+---
+
+## Passo 5 — Gerar o Documento
 
 Quando não houver mais lacunas, crie o arquivo `.github/feature-<nome>.md` com **exatamente** esta estrutura:
 
@@ -111,6 +129,20 @@ Quando não houver mais lacunas, crie o arquivo `.github/feature-<nome>.md` com 
 - **Então** <resultado esperado>
 
 <Repita para cada regra significativa. Priorize os fluxos principais e os casos de erro mais importantes.>
+
+---
+
+## Configuração do Projeto
+
+| Configuração | Valor |
+| --- | --- |
+| Nome da solution | <valor informado> |
+| Target framework | <valor informado> |
+| Primeira feature do projeto? | Sim/Não |
+| Autenticação JWT configurada? | Sim/Não |
+| Serviços de integração existentes | <lista ou "Nenhum"> |
+| Região Azure | <valor informado> |
+| Ambiente | <Desenvolvimento/Produção> |
 ```
 
 ---
